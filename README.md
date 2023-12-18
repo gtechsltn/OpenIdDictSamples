@@ -4,6 +4,18 @@
 + [Multi Tenant in ASP.NET Core](https://medium.com/@sergeygoodgood/multitenant-oauth-server-with-openiddict-and-multitenant-authorites-for-jwt-authentication-in-asp-c0f1764fff8a)
 + [Options Pattern in ASP.NET Core](https://medium.com/@sergeygoodgood/options-pattern-in-asp-net-core-easier-than-you-think-ff47b4e5bff2)
 
+# Tools
++ Windows 11
++ Visual Studio 2022
++ [AspNetCore.Docs.Samples](https://github.com/dotnet/AspNetCore.Docs.Samples/)
++ [IdentityServer](https://duendesoftware.com/)
+
+# Code Samples
++ [Sending Encrypted Data](https://github.com/damienbod/SendingEncryptedData)
++ [Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/)
++ [BFF with Angular](https://github.com/damienbod/bff-aspnetcore-angular)
++ [BFF with Vue.js](https://github.com/damienbod/bff-aspnetcore-vuejs)
+
 # Articles
 Code samples for my articles: 
 #

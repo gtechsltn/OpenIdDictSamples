@@ -1,8 +1,8 @@
 # OpenId Connect and OAuth 2.0 server in Asp.Net Core using OpenIdDict
-+ [Articles](https://github.com/Kharlap-Sergey/articles/)
++ [Articles in ASP.NET Core](https://github.com/Kharlap-Sergey/articles/)
 + [OpenID Connect using OpendIdDict](https://medium.com/@sergeygoodgood/openid-connect-and-oauth2-0-server-in-aspnetcore-using-openiddict-c463c6ebc082)
-+ [Multi Tenants](https://medium.com/@sergeygoodgood/multitenant-oauth-server-with-openiddict-and-multitenant-authorites-for-jwt-authentication-in-asp-c0f1764fff8a)
-+ [IOptions](https://medium.com/@sergeygoodgood/options-pattern-in-asp-net-core-easier-than-you-think-ff47b4e5bff2)
++ [Multi Tenant in ASP.NET Core](https://medium.com/@sergeygoodgood/multitenant-oauth-server-with-openiddict-and-multitenant-authorites-for-jwt-authentication-in-asp-c0f1764fff8a)
++ [Options Pattern in ASP.NET Core](https://medium.com/@sergeygoodgood/options-pattern-in-asp-net-core-easier-than-you-think-ff47b4e5bff2)
 
 # Articles
 Code samples for my articles: 

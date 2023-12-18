@@ -30,3 +30,18 @@ Build your own OAuth Server without Duendo IdentityServer!
 #
 Based on my passion for knowledge sharing, I'm doing this thing for absolutely free.
 You can follow [me on Medium](https://medium.com/@sergeygoodgood) to don't miss my new publications.
+
+#
+### Notes
++ [Don't use the OAuth password grant type](https://www.scottbrady91.com/oauth/why-the-resource-owner-password-credentials-grant-type-is-not-authentication-nor-suitable-for-modern-applications)
+```
+POST /token HTTP/1.1
+  Host: auth.example.com
+  Content-Type: application/x-www-form-urlencoded
+
+  grant_type=password
+  &username=scott
+  &password=ilovecats
+  &client_id=s7CieS3lru4
+  &client_secret=a1d8f7b4896b40989549d641aa3ffbdc
+```
